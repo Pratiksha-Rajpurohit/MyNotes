@@ -16,7 +16,7 @@ MyNotes is a simple Android application that allows users to manage notes. It ut
 # Installation
 To run the MyNotes application on your local machine:
 
-1. Clone this repository: git clone https://github.com/your-username/MyNotes.git
+1. Clone this repository: git clone https://github.com/Pratiksha-Rajpurohit/MyNotes.git
 2. Open the project in Android Studio.
 
 3. Build and run the application on an Android emulator or physical device.
