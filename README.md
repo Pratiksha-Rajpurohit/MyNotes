@@ -12,15 +12,6 @@ MyNotes is a simple Android application that allows users to manage notes. It ut
 * RoomDatabase: Android's native SQLite object mapping library for local persistence of notes.
 # Screenshots
 
-
-# Installation
-To run the MyNotes application on your local machine:
-
-1. Clone this repository: git clone https://github.com/Pratiksha-Rajpurohit/MyNotes.git
-2. Open the project in Android Studio.
-
-3. Build and run the application on an Android emulator or physical device.
-
 # Usage
 * Launch the MyNotes application on your Android device.
 * You will see a list of existing notes, if any.
