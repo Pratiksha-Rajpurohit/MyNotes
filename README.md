@@ -1,6 +1,13 @@
 # MyNotes Application
 MyNotes is a simple Android application that allows users to manage notes. It utilizes MVVM architecture along with coroutines for asynchronous programming and RoomDatabase for local storage. Users can create, update, and delete notes within the app.
 
+# ScreenRecoding
+https://github.com/user-attachments/assets/8c7d8492-b51b-4e33-a2fd-b8a003eb847b
+
+# ScreenShot
+![Screenshot 2024-10-17 013357](https://github.com/user-attachments/assets/4459d4b1-d958-4c75-b5cc-ca64ba67ee2c)
+
+
 # Features
 * View Notes: See a list of all notes stored in the app.
 * Add Note: Create a new note with a title and content.
@@ -10,8 +17,6 @@ MyNotes is a simple Android application that allows users to manage notes. It ut
 * MVVM Architecture: Separation of concerns with clear distinctions between the UI, data presentation, and business logic layers.
 * Coroutines: Asynchronous programming to handle database operations and network requests efficiently.
 * RoomDatabase: Android's native SQLite object mapping library for local persistence of notes.
-# ScreenRecoding
-https://github.com/user-attachments/assets/8c7d8492-b51b-4e33-a2fd-b8a003eb847b
 
 # Usage
 * Launch the MyNotes application on your Android device.
